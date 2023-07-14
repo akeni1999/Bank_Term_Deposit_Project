@@ -1,4 +1,4 @@
-# Bank_Term_Deposit_Project
+# Bank_Term_Deposit_Analysis
 
 
 ### Situation
